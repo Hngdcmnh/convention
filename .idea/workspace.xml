@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af479a6-bd75-4944-b329-950b5e9c49d8" name="Default Changelist" comment="ddd">
+    <list default="true" id="6af479a6-bd75-4944-b329-950b5e9c49d8" name="Default Changelist" comment="useage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/identify/formatting.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/formatting.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/identify/identify.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/identify.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/identify/ordering.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/ordering.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/useage/collection.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/collection.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/class_mixin.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/useage/function.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/function.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/useage/member.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/member.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656950359889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="useage">
+      <created>1657035467196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657035467196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ddd" />
-    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
+    <MESSAGE value="useage" />
+    <option name="LAST_COMMIT_MESSAGE" value="useage" />
   </component>
 </project>
