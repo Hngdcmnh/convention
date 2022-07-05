@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af479a6-bd75-4944-b329-950b5e9c49d8" name="Default Changelist" comment="" />
+    <list default="true" id="6af479a6-bd75-4944-b329-950b5e9c49d8" name="Default Changelist" comment="ddd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/identify/formatting.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/formatting.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/identify/identify.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/identify.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/identify/ordering.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/ordering.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/useage/collection.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/collection.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/useage/function.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/function.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +57,21 @@
       <recent name="E:\Company\Misa\Flutter\Convention\lib\identify" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Dart Command Line App.collection.dart">
+    <configuration name="collection.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/useage/collection.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.collection.dart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656597648102</updated>
     </task>
+    <task id="LOCAL-00001" summary="ddd">
+      <created>1656950359889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656950359889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +103,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
 </project>
