@@ -2,7 +2,7 @@
 /// - UpperCamelCase: Classes, enum types, typedefs, and type parameters
 /// - lowerCamelCase: Constant variables, including enum values.
 /// - lowercase_with_underscores: libraries, packages, directories, and source files
-/// - SCREAMING_CAPS: Chỉ dụng SCREAMING_CAPS khi dùng thư viện sử dụng SCREAMING_CAPS hoặc code với 1 ngôn ngữ khác dùng SCREAMING_CAPS(java)
+/// - SCREAMING_CAPS: Chỉ sử dụng SCREAMING_CAPS khi dùng thư viện sử dụng SCREAMING_CAPS hoặc code với 1 ngôn ngữ khác dùng SCREAMING_CAPS(java)
 /// *Constants are often changed to final non-const variables, which would necessitate a name change.
 
 /// lowercase_with_underscores
@@ -10,7 +10,6 @@
 library naming_convention;
 import 'package:get/get.dart' as good_library;
 import 'package:flutter/material.dart' as BadLibrary;
-
 
 /// UpperCamelCase
 // Class
@@ -27,6 +26,9 @@ enum EnumType {
   BadItem;
 }
 
+// Typedef
+typedef badTypedef<T> = bool Function(T value);
+typedef GoodTypedef<T> = bool Function(T value);
 
 /// lowerCamelCase
 // Variable non constant and constant

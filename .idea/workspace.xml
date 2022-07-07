@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6af479a6-bd75-4944-b329-950b5e9c49d8" name="Default Changelist" comment="useage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/class_mixin.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/useage/function.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/function.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/useage/member.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/member.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/documentation/comment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/documentation/comment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/style/formatting.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/formatting.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/style/identify.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/style/identify.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/useage/collection.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/collection.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/useage/useage_library.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/useage/useage_library.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

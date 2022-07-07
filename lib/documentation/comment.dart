@@ -37,7 +37,7 @@ void goodDoSomeThing() {}
 // bad do someThing
 void soBadDoSomeThing() {}
 
-
+///-------------------------------------------------------------------------------------
 /// - Separate the first sentence of a doc comment into its own paragraph.
 
 /// Do something
@@ -49,6 +49,7 @@ void badSeparateDoSomeThing(){}
 /// on 5/5/2022
 void goodSeparateDoSomeThing(){}
 
+///-------------------------------------------------------------------------------------
 /// - PREFER Starting function or method comments with third-person verbs.
 
 /// Returns something
@@ -56,6 +57,8 @@ void goodSeparateDoSomeThing(){}
 /// on 5/5/2022
 void DoSomeThing(){}
 
+
+///-------------------------------------------------------------------------------------
 /// - CONSIDER including code samples in doc comments
 
 /// Returns the lesser of two numbers.
@@ -65,6 +68,8 @@ void DoSomeThing(){}
 /// ```
 num min(num a, num b) => a+b;
 
+
+///-------------------------------------------------------------------------------------
 /// - The convention in Dart is to integrate that into the description of the method and highlight parameters using square brackets.
 
 /// Defines a flag with the given name and abbreviation.
@@ -73,10 +78,11 @@ num min(num a, num b) => a+b;
 /// @param abbr The abbreviation for the flag.
 /// @returns The new flag.
 /// @throws ArgumentError If there is already an option with
-///     the given name or abbreviation.
+/// the given name or abbreviation.
 void badAddFlag(String name, String abbr){}
 
 
+///-------------------------------------------------------------------------------------
 /// Defines a flag.
 ///
 /// Throws an [ArgumentError] if there is already an option named [name] or

@@ -44,8 +44,11 @@ void main() {
   var goodFilter = objects.whereType<int>();
 
 
-  /// - AVOID using cast().
+  /// - AVOID using cast() vì cast() trả về 1 lazy collection kiểm tra kiểu của tất cả phần tử trong collection
 
-  
+  for(final n in objects.cast<int>())
+    {
+      if(n.isEven)  print(n);
+    }
 
 }

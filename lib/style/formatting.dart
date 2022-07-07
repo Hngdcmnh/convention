@@ -1,6 +1,6 @@
 /// Formatting
-/// - curly braces for all flow control statements except case if with no else and fits on one line
-/// - avoid lines longer than 80 characters
+/// - Ngoặc nhọn cho tất cả trường hợp ngoại trừ TH: khối lệnh if vừa trên 1 dòng và không có else
+/// - Tránh dòng có quá 80 kí tự
 
 /// if statement
 void main() {
